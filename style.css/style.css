@@ -1,0 +1,101 @@
+.logo {
+  max-width: 122px;
+  max-height: 98px;
+  padding-top: 63px;
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: top;
+  padding-bottom: 107px;
+}
+nav li {
+  display: inline-block;
+  max-width: 200px;
+  max-height: 300px;
+  text-decoration: none;
+  margin: 0 70px;
+  font-weight: bold;
+  font-family: "BPG Boxo", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #707070;
+}
+section,
+header,
+footer {
+  max-width: 1640px;
+  width: 85%;
+  margin-inline: auto;
+}
+.article {
+  max-width: 483px;
+  width: 25%;
+  border-style: inherit;
+  box-shadow: 0px 3px 6px #00000029;
+  margin: 58px 47px;
+  display: inline-block;
+}
+section img {
+  width: 100%;
+}
+.loadmore {
+  display: block;
+  max-width: 145px;
+
+  margin: auto;
+  line-height: 56px;
+  font-size: x-large;
+  text-decoration: underline;
+  font-family: "BPG Boxo", sans-serif;
+}
+p {
+  color: #707070;
+  font-family: font2;
+  font-weight: normal;
+}
+h2 {
+  font-size: xx-large;
+  color: #707070;
+  padding-top: 30px;
+  font-family: "BPG Boxo", sans-serif;
+}
+h4 {
+  font-size: x-large;
+  color: #707070;
+  padding-top: 20px;
+  font-family: "BPG Boxo", sans-serif;
+}
+.footerimg {
+  padding: 56px 140px;
+}
+.facebook,
+.instagram {
+  max-width: 43px;
+  max-height: 43px;
+}
+.footerhover {
+  font-size: large;
+  color: #ffffff;
+  font-weight: normal;
+  text-align: center;
+  font-family: "BPG Boxo", sans-serif;
+}
+.adresse {
+  max-width: 120px;
+  font-size: x-small;
+  color: #ffffff;
+  margin: auto;
+}
+footer {
+  background-color: #2e2e2e;
+  background-repeat: no-repeat;
+}
+.footerarticle {
+  display: inline-block;
+}
+.logos {
+  display: inline-block;
+}
